@@ -1,0 +1,14 @@
+nama = input("masukan nama kamu :")
+print("Hallo selamat datang")
+kabar = input("masukan kabar anda : ")
+print("kabar saya juga baik")
+alamat = input("masukan alamat :")
+jurusan = input("masukan jurusan :")
+print("tetap semwrapper/bin/python3 $file
+masukan nama kamu :jingga
+Hallo selamat datang
+masukan kabar anda : baik
+kabar saya juga baik
+masukan alamat :montong are
+masukan jurusan :ilmunkomputer
+tetap semangat,walaupun ekespetasi anda tak seindah realitaangat,walaupun ekespetasi anda tak seindah realita")
