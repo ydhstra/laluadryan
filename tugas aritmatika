@@ -1,0 +1,39 @@
+= RESTART: C:/Users/ASUS/AppData/Local/Programs/Python/Python311/DLLs/tugas aritmatika.py
+15
+sisa hutang anda adalah 500
+luas 450
+setiap anak akan mendapatkan bagian kue sebanyak 3.0
+sisa bagi dari bilangan 16 dan 4 adalah 0
+
+#penjumlhan
+apel=8
+jeruk=7
+buah=apel+jeruk
+print(buah)
+
+#pengurangan
+hutang=1000
+bayar=500
+sisahutang=hutang-bayar
+print("sisa hutang anda adalah",sisahutang)
+
+#perkalian
+panjang=30
+lebar=15
+luas=panjang*lebar
+print(luas)
+
+#pembagian
+kue=18
+anak=6
+kueperanak=kue/anak
+print("setiap anak akan mendapatkan bagian kue sebanyak",kueperanak)
+
+#sisa bagi/modulus
+bilangan1=16
+bilangan2=4
+hasil=bilangan1%bilangan2
+print("sisa bagi dari bilangan",bilangan1,"dan",bilangan2,"adalah",hasil)
+
+
+
